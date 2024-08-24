@@ -120,6 +120,12 @@
 
 - type: entity
   parent: ClothingBackpack
+  id: Test
+  name: Test
+  description: Test
+
+- type: entity
+  parent: ClothingBackpack
   id: ClothingBackpackHydroponics
   name: hydroponics backpack
   description: It's a backpack made of all-natural fibers.
