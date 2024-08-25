@@ -138,3 +138,4 @@ Entries:
   url: https://github.com/space-wizards/space-station-14/pull/26500
 Name: Admin
 Order: 1
+- test: "test"
