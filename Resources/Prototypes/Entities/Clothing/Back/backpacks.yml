@@ -59,7 +59,7 @@
   parent: ClothingBackpack
   id: test
   name: test222222
-  description: test
+  description: test22
 
 - type: entity
   parent: ClothingBackpack
