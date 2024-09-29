@@ -1,4 +1,8 @@
-﻿- type: entity
+﻿- type: tessst
+  parent: tessst
+  id: tessst
+ 
+ - type: entity
   parent: ClothingBackpack
   id: ClothingBackpackChameleon
   name: backpack
