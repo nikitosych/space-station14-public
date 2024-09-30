@@ -3,7 +3,7 @@
 
 - type: entity
   parent: ClothingOuterBaseMedium
-  id: ClothingOuterArmorBasic1111111111111111111111111111111111111
+  id: ClothingOuterArmorBasic111
   
 - type: entity
   parent: ClothingOuterBaseMedium
